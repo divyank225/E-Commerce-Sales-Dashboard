@@ -1,50 +1,38 @@
-## 📌 Project Overview
-This project analyzes e-commerce sales data using Power BI to track sales performance, profitability, customer behavior, and regional trends. The interactive dashboard helps business stakeholders make data-driven decisions.
+Project Overview
+This project analyzes hotel booking and cancellation data using Microsoft Excel to understand customer behavior, booking patterns, and key factors leading to booking cancellations. The dashboard provides clear insights to help hotels reduce cancellations and improve revenue management.
 
----
+Tools Used
+•	Microsoft Excel  
+•	Pivot Tables  
+•	Pivot Charts  
+•	Slicers (Year & Month)  
+•	Data Cleaning & Formatting  
 
-## 🛠 Tools Used
-- Power BI
-- Excel (Data Source)
-- Data Cleaning & Transformation
+Key KPIs
+•	Total Bookings  
+•	Total Cancellations  
+•	Booking Distribution by Hotel Type  
+•	Guest Type-wise Cancellations  
+•	Monthly Booking & Cancellation Trends  
 
----
+Analysis Performed
+•	Comparison of bookings and cancellations for City Hotel and Resort Hotel  
+•	Guest type analysis (Couple, Family, Single) to identify cancellation behavior  
+•	Room type preference analysis (Desired vs Undesired)  
+•	Month-wise and year-wise booking trends using slicers  
+•	Seasonal impact on booking and cancellation patterns  
 
-## 📊 Key KPIs
-- Total Sales Amount: 438K
-- Total Quantity Sold: 5,615
-- Total Profit: 37K
-- Average Order Value : 121K
+Key Insights
+•	City Hotels receive higher bookings and cancellations compared to Resort Hotels  
+•	Couple travelers show the highest cancellation rate  
+•	Desired room types experience more cancellations  
+•	Peak seasons show increased booking volatility  
 
----
+Business Value
+•	Helps hotels identify high-risk booking segments  
+•	Supports better room allocation and booking policies  
+•	Improves revenue and occupancy planning  
+•	Enables data-driven decision-making using Excel dashboards 
 
-## 🔍 Analysis Performed
-- State-wise sales performance
-- Top customer contribution analysis
-- Profitability by product sub-category
-- Payment mode distribution
-- Category-wise sales quantity
-- Month-wise profit trend analysis
-
----
-
-## 📈 Key Insights
-- Maharashtra and Madhya Pradesh are top revenue-generating states
-- Clothing category contributes the highest sales volume
-- Printers and Bookcases generate maximum profit
-- Cash on Delivery (COD) is the most used payment mode
-- Mid-year months show lower or negative profitability
-
----
-
-## 💡 Business Value
-- Identifies high-performing regions and customers
-- Helps optimize product and category strategy
-- Supports payment mode optimization
-- Enables seasonal profit planning
-- Improves decision-making using interactive visuals
-
----
-
-## 🎯 Conclusion
-This dashboard provides a comprehensive view of e-commerce sales and profitability. It helps businesses identify growth opportunities, control losses, and improve overall performance through data-driven insights.
+Conclusion
+This Excel dashboard provides a clear and interactive view of hotel booking and cancellation behavior. It supports business users in understanding trends, reducing cancellations, and improving overall hotel performance.
