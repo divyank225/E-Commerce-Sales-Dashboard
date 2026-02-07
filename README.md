@@ -1,14 +1,14 @@
 Project Overview
 This project analyzes hotel booking and cancellation data using Microsoft Excel to understand customer behavior, booking patterns, and key factors leading to booking cancellations. The dashboard provides clear insights to help hotels reduce cancellations and improve revenue management.
 
-Tools Used
+Tools Used  
 •	Microsoft Excel  
 •	Pivot Tables  
 •	Pivot Charts  
 •	Slicers (Year & Month)  
 •	Data Cleaning & Formatting  
 
-Key KPIs
+Key KPIs  
 •	Total Bookings  
 •	Total Cancellations  
 •	Booking Distribution by Hotel Type  
